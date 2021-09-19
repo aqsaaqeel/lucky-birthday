@@ -1,3 +1,26 @@
-.output{
-    padding: 1rem;
+#output-box{
+    padding: 5rem;
+    border : 1px solid;
+    margin: 1rem;
+    background-color: #DDA0DD;
+}
+.container {
+    text-align : center;
+}
+.heading-one {
+    background-color: #DDA0DD;
+    margin : 1rem;
+    padding : 1rem;
+}
+#date-of-birth {
+    padding : 0.5rem 1rem;
+}
+#lucky-number {
+    padding : 0.5rem 0.5rem;
+}
+#check-number{
+    background-color: #DDA0DD;
+    padding : 0.5rem;
+    border-radius: 0.5rem;
+    border-color: black;
 }
