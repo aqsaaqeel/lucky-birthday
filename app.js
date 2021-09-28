@@ -14,10 +14,10 @@ function sumOfDate(dob) {
 
 function compareValues(sum, lNumber){
     if(sum%lNumber === 0 ) {
-        outputBox.innerText = "Ooh! Your birthday is lucky"; 
+        outputBox.innerText = "Ooh! Your birthday is luckyyyyy!!!"; 
     }
     else {
-        outputBox.innerText = "Sorry your birthday is not Lucky";
+        outputBox.innerText = "Sorry your birthday is not Lucky :(";
     }
 }
 checkNumberButton.addEventListener("click", function checkBirthday(){
